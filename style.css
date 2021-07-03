@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.jun{
+    color: orange;
+}
+.banner{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.box-1{
+    width: 50%;
+    padding: 3%;
+}
+.box-1 img{
+    width: 100%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange ,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.box-1 p{
+    margin-bottom: 2%;
+}
