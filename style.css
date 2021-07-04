@@ -15,6 +15,7 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .box-1{
     width: 50%;
@@ -33,4 +34,21 @@ h1{
 }
 .box-1 p{
     margin-bottom: 2%;
+}
+.dream{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p{
+    text-align: justify;
+}
+.box-2{
+    width: 50%;
+    padding: 3%;
+    padding-right: 50px;
+}
+.box-2 p{
+    margin-bottom: 20px;
 }
